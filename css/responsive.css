@@ -107,7 +107,9 @@
 
 
 @media(max-width:576px){
-
+    .btn-custom-2{
+        display: none;
+    }
     .nav-section .container {
         text-align: center;
         padding: 0 12px;
@@ -139,27 +141,20 @@
 
     /* about========= */
     .about-me {
-        padding: 50px 0;
+        padding: 20px 0;
     }
     .about-img img {
         max-width: 18rem;
     }
     .service-section {
-        padding: 50px 0;
+        padding: 20px 0;
     }
     .Portfolio {
-        padding: 50px 0;
+        padding: 20px 0;
     }
     .contact-section {
-        padding: 50px 0;
+        padding: 20px 0;
     }
-
-
-
-
-
-
-
 
 
 
