@@ -9,6 +9,13 @@
 
 
 @media(max-width:992px){
+    
+    .btn-custom-1 {
+        padding: 15px 20px;
+    }
+    .btn-custom-2 {
+        padding: 15px 20px;
+    }
     h2 {
         padding: 10px 0;
         font-size: 28px;
@@ -39,7 +46,7 @@
         padding: 60px 0;
     }
     .about-img img {
-        max-width: 22rem;
+        max-width: 20rem;
     }
     .about-img {
         padding: 40px 0;
